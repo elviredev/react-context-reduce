@@ -6,5 +6,6 @@
   "bracketSpacing": true,
   "objectWrap": "preserve",
   "bracketSameLine": false,
-  "printWidth": 80
+  "printWidth": 80,
+  "singleAttributePerLine": false
 }
